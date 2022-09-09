@@ -1,2 +1,4 @@
 # nodeJS-tests
- nodeJS testing
+ nodeJS testing using SOLID principles
+
+## Test framework: [VITEST](https://vitest.dev/)
